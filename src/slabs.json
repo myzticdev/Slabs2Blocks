@@ -1,0 +1,133 @@
+{
+  "1.13": {
+    "acacia_slab": "acacia_planks",
+    "birch_slab": "birch_planks",
+    "brick_slab": "bricks",
+    "cobblestone_slab": "cobblestone",
+    "dark_oak_slab": "dark_oak_planks",
+    "dark_prismarine_slab": "dark_prismarine",
+    "jungle_slab": "jungle_planks",
+    "nether_brick_slab": "nether_bricks",
+    "oak_slab": "oak_planks",
+    "prismarine_brick_slab": "prismarine_bricks",
+    "prismarine_slab": "prismarine",
+    "purpur_slab": "purpur_block",
+    "quartz_slab": "quartz_block",
+    "red_sandstone_slab": "red_sandstone",
+    "sandstone_slab": "sandstone",
+    "spruce_slab": "spruce_planks",
+    "stone_brick_slab": "stone_bricks",
+    "stone_slab": "stone"
+  },
+  "1.14": {
+    "andesite_slab": "andesite",
+    "cut_red_sandstone_slab": "cut_red_sandstone",
+    "cut_sandstone_slab": "cut_sandstone",
+    "diorite_slab": "diorite",
+    "end_stone_brick_slab": "end_stone_bricks",
+    "granite_slab": "granite",
+    "mossy_cobblestone_slab": "mossy_cobblestone",
+    "mossy_stone_brick_slab": "mossy_stone_bricks",
+    "polished_andesite_slab": "polished_andesite",
+    "polished_diorite_slab": "polished_diorite",
+    "polished_granite_slab": "polished_granite",
+    "red_nether_brick_slab": "red_nether_bricks",
+    "smooth_quartz_slab": "smooth_quartz",
+    "smooth_red_sandstone_slab": "smooth_red_sandstone",
+    "smooth_sandstone_slab": "smooth_sandstone",
+    "smooth_stone_slab": "smooth_stone"
+  },
+  "1.16": {
+    "blackstone_slab": "blackstone",
+    "crimson_slab": "crimson_planks",
+    "polished_blackstone_brick_slab": "polished_blackstone_bricks",
+    "polished_blackstone_slab": "polished_blackstone",
+    "warped_slab": "warped_planks"
+  },
+  "1.17": {
+    "cobbled_deepslate_slab": "cobbled_deepslate",
+    "cut_copper_slab": "cut_copper",
+    "deepslate_brick_slab": "deepslate_bricks",
+    "deepslate_tile_slab": "deepslate_tiles",
+    "exposed_cut_copper_slab": "exposed_cut_copper",
+    "oxidized_cut_copper_slab": "oxidized_cut_copper",
+    "polished_deepslate_slab": "polished_deepslate",
+    "waxed_cut_copper_slab": "waxed_cut_copper",
+    "waxed_exposed_cut_copper_slab": "waxed_exposed_cut_copper",
+    "waxed_oxidized_cut_copper_slab": "waxed_oxidized_cut_copper",
+    "waxed_weathered_cut_copper_slab": "waxed_weathered_cut_copper",
+    "weathered_cut_copper_slab": "weathered_cut_copper"
+  },
+  "1.19": {
+    "mangrove_slab": "mangrove_planks",
+    "mud_brick_slab": "mud_bricks"
+  },
+  "1.20": {
+    "bamboo_mosaic_slab": "bamboo_mosaic",
+    "bamboo_slab": "bamboo_planks",
+    "cherry_slab": "cherry_planks"
+  },
+  "1.21": {
+    "polished_tuff_slab": "polished_tuff",
+    "tuff_brick_slab": "tuff_bricks",
+    "tuff_slab": "tuff"
+  },
+  "1.21.4": {
+    "pale_oak_slab": "pale_oak_planks",
+    "resin_brick_slab": "resin_bricks"
+  },
+  "26.2": {
+    "cinnabar_brick_slab": "cinnabar_bricks",
+    "cinnabar_slab": "cinnabar",
+    "polished_cinnabar_slab": "polished_cinnabar",
+    "polished_sulfur_slab": "polished_sulfur",
+    "sulfur_brick_slab": "sulfur_bricks",
+    "sulfur_slab": "sulfur"
+  },
+  "26.3": {
+    "black_concrete_slab": "black_concrete",
+    "black_wool_slab": "black_wool",
+    "blue_concrete_slab": "blue_concrete",
+    "blue_wool_slab": "blue_wool",
+    "brown_concrete_slab": "brown_concrete",
+    "brown_wool_slab": "brown_wool",
+    "cyan_concrete_slab": "cyan_concrete",
+    "cyan_wool_slab": "cyan_wool",
+    "gray_concrete_slab": "gray_concrete",
+    "gray_wool_slab": "gray_wool",
+    "green_concrete_slab": "green_concrete",
+    "green_wool_slab": "green_wool",
+    "light_blue_concrete_slab": "light_blue_concrete",
+    "light_blue_wool_slab": "light_blue_wool",
+    "light_gray_concrete_slab": "light_gray_concrete",
+    "light_gray_wool_slab": "light_gray_wool",
+    "lime_concrete_slab": "lime_concrete",
+    "lime_wool_slab": "lime_wool",
+    "magenta_concrete_slab": "magenta_concrete",
+    "magenta_wool_slab": "magenta_wool",
+    "orange_concrete_slab": "orange_concrete",
+    "orange_wool_slab": "orange_wool",
+    "pink_concrete_slab": "pink_concrete",
+    "pink_wool_slab": "pink_wool",
+    "poplar_slab": "poplar_planks",
+    "purple_concrete_slab": "purple_concrete",
+    "purple_wool_slab": "purple_wool",
+    "red_concrete_slab": "red_concrete",
+    "red_wool_slab": "red_wool",
+    "white_concrete_slab": "white_concrete",
+    "white_wool_slab": "white_wool",
+    "yellow_concrete_slab": "yellow_concrete",
+    "yellow_wool_slab": "yellow_wool"
+  },
+  "26.4-snapshot-5": {
+    "packed_ice_brick_slab": "packed_ice_bricks"
+  },
+  "26.4-snapshot-6": {
+    "snow_brick_slab": "snow_bricks"
+  },
+  "26.4-snapshot-7": {
+    "calcite_slab": "calcite",
+    "polished_calcite_brick_slab": "polished_calcite_bricks",
+    "polished_calcite_slab": "polished_calcite"
+  }
+}
