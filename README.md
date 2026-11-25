@@ -1,6 +1,6 @@
 # Slabs2Blocks
 
-<img src="src/pack.png" alt="Two oak slabs that fit together into one block" width="128" height="128">
+<img src="src/pack.png" alt="Two stone brick slabs with a gold arrow pointing to a full stone brick block" width="128" height="128">
 
 **Craft two matching slabs back into one full block.** Place them side by side in your inventory grid or crafting table. Two oak slabs make oak planks, two stone brick slabs make stone bricks, and waxed copper keeps its wax and oxidation stage.
 

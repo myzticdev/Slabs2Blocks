@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.1] - 2026-11-25
+
+- Added the stone brick recipe icon to the datapack and README.
+
 ## [1.0.0] - 2026-11-25
 
 - Place two identical slabs side by side to recover one matching block in your inventory grid or crafting table.
